@@ -41,9 +41,6 @@ public class StudentDemo2 {
         }
         
       
-        
-        
-        
         for (int i = 0; i <names.length -1; i++) {
               System.out.print("student id: "+names[i].id+"student name:"+
                       names[i].name+"\n");
@@ -53,6 +50,6 @@ public class StudentDemo2 {
        
         
         
-    }
+    }//end of main
     
-}
+}//end of class
