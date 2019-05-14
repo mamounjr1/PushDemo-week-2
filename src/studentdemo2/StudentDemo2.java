@@ -40,6 +40,7 @@ public class StudentDemo2 {
             
         }
         
+        System.out.println("Hello class");
       
         for (int i = 0; i <names.length -1; i++) {
               System.out.print("student id: "+names[i].id+"student name:"+
@@ -48,7 +49,7 @@ public class StudentDemo2 {
         
         
        
-        
+     
         
     }//end of main
     
