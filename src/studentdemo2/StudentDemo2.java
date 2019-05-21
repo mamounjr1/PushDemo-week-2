@@ -43,6 +43,7 @@ public class StudentDemo2 {
         }
         
         System.out.println("Hello class");
+        System.out.println("Please update");
       
         for (int i = 0; i <names.length -1; i++) {
               System.out.print("student id: "+names[i].id+"student name:"+
