@@ -20,7 +20,7 @@ public class StudentDemo2 {
     //Declarre variables
     int id;
     String name;
-    int val;
+    //int val;
     public static void main(String[] args) {
         //Intialize Scanner Stream
         Scanner scanNS = new Scanner(System.in);
