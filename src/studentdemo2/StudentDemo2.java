@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  * Update version week 2
+ * Update: week 3
  */
 package studentdemo2;
 import java.util.Scanner;
